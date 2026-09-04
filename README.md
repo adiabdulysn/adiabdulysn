@@ -85,16 +85,6 @@ A selection of enterprise systems I've built during my career:
 | **SCOPE** | Express.js, Nuxt.js | Pallet stock control with transfers, inventory, cycle count, and QR/ID label printing. |
 | **eFaktur** | Express.js, Next.js | Automated tax invoice creation with automatic tax calculation and PPBJ upload. |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiabdulysn&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiabdulysn&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
 
 ## 🤝 Let's Collaborate
 
