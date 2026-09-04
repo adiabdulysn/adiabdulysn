@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  📍 Cianjur, Indonesia &nbsp;·&nbsp; 🎂 23 November 1999 &nbsp;·&nbsp; 🎓 SMK Pasundan 1 Cianjur
+  📍 Cianjur, Indonesia &nbsp;·&nbsp; 🎓 SMK Pasundan 1 Cianjur
 </p>
 
 <p align="center">
