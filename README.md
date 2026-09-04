@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  A self-taught Full Stack Developer who started with zero IT background and built a career from the ground up. 
-  I specialize in building enterprise-grade web applications with modern architectures.
+  A self-taught full-stack developer who started his career with absolutely no IT background and built his career from the ground up. 
+  I specialize in developing enterprise-class web applications with modern architecture.
 </p>
 
 <p align="center">
