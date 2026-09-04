@@ -102,7 +102,6 @@ I'm available for freelance opportunities and innovative projects. Let's build s
 
 - 🌐 [Portfolio](https://www.adiabdulysn.my.id/)
 - 📧 [Email](mailto:adiabdulysn@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/adiabdulysn) *(sesuaikan dengan URL LinkedIn-mu)*
 
 ---
 
