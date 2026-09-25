@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://www.adiabdulysn.my.id/"><img src="https://img.shields.io/badge/Portfolio-adiabdulysn.my.id-0A0A0A?style=for-the-badge&logo=vercel" /></a>
   <a href="https://github.com/adiabdulysn"><img src="https://img.shields.io/badge/GitHub-adiabdulysn-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:adiabdulysn@gmail.com"><img src="https://img.shields.io/badge/Email-adiabdulysn@gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:adi.abdul.ysn@gmail.com"><img src="https://img.shields.io/badge/Email-adi.abdul.ysn@gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
@@ -91,7 +91,7 @@ A selection of enterprise systems I've built during my career:
 I'm available for freelance opportunities and innovative projects. Let's build something extraordinary together.
 
 - 🌐 [Portfolio](https://www.adiabdulysn.my.id/)
-- 📧 [Email](mailto:adiabdulysn@gmail.com)
+- 📧 [Email](mailto:adi.abdul.ysn@gmail.com)
 
 ---
 
